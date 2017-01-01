@@ -1,5 +1,6 @@
 getFileContent <- function(directory, id)
 {
+	# test comment
 	## condition(id >= 1 && id <=332)
 	
 	fileprefix <- "";
